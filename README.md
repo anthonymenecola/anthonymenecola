@@ -5,10 +5,11 @@ I'm a product designer and photographer currently living and working in Toronto,
 I'm currently learning React and SwiftUI in hopes of bringing some side projects to life.
 
 Other places you'll find me on the internet:
-[Twitter](https://www.twitter.com/anthonymenecola)
-[Instagram](https://www.instagram.com/anthonymenecola)
-[Read my CV](https://read.cv/anthonymenecola)
-[Personal website](https://www.anthonymenecola.com)
+
+- [Twitter](https://www.twitter.com/anthonymenecola)
+- [Instagram](https://www.instagram.com/anthonymenecola)
+- [Read my CV](https://read.cv/anthonymenecola)
+- [Personal website](https://www.anthonymenecola.com)
 
 
 <!--
