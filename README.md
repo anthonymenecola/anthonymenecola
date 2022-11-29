@@ -8,7 +8,7 @@ Other places you'll find me on the internet:
 
 - [Twitter](https://www.twitter.com/anthonymenecola)
 - [Instagram](https://www.instagram.com/anthonymenecola)
-- [Read my CV](https://read.cv/anthonymenecola)
+- [Read CV](https://read.cv/anthonymenecola)
 - [Personal website](https://www.anthonymenecola.com)
 
 
